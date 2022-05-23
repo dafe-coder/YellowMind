@@ -1,0 +1,17 @@
+@import '../../variables';
+
+ul.slider {
+	margin-top: 12vh;
+	video {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+		}
+}
+.slider-card {
+	width: vw(435px);
+	.white-card {
+		flex-basis: 100%;
+		
+	}
+}

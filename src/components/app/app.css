@@ -1,0 +1,12 @@
+.mainApp {
+	background: url('./Union.svg') top center / 100vw 100vh no-repeat;
+	background-attachment: fixed;
+	min-height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding-bottom: 20vw;
+	padding-top: 14.53vw;
+}

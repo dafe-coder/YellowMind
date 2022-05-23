@@ -1,0 +1,4 @@
+@function vw($value) {
+	$vwValue: calc($value / 1920px * 100)+0vw;
+	@return $vwValue;
+}

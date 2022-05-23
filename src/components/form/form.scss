@@ -1,0 +1,62 @@
+@import '../../variables';
+
+form {
+	width: 36.25vw;
+	margin: vw(100px) auto 0;
+
+	&>* {
+		&:not(:last-child) {
+			margin-bottom: vw(30px);
+		}
+	}
+
+	.form-label {
+		font-weight: 300;
+		font-size: 1.04vw;
+		line-height: 1.25vw;
+		margin-bottom: vw(15px);
+	}
+
+	.form-input {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+
+		input {
+			font-weight: 600;
+			background: #FFFFFF;
+			border-radius: vw(16px);
+			font-size: vw(32px);
+			line-height: vw(32px);
+			border: none;
+			padding: vw(30px) vw(25px);
+
+			&::placeholder {
+				color: #000;
+			}
+		}
+	}
+
+	.form-textarea {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+
+		textarea {
+			font-weight: 600;
+			background: #FFFFFF;
+			border-radius: vw(16px);
+			font-size: vw(32px);
+			line-height: vw(32px);
+			border: none;
+			padding: vw(30px) vw(25px);
+			line-height: vw(51px);
+			color: #000;
+			max-width: 36.25vw;
+
+			&::placeholder {
+				color: #000;
+			}
+		}
+	}
+}

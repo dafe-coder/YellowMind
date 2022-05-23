@@ -1,0 +1,15 @@
+ul.social-networks {
+	margin-top: 2.76vw;
+	display: flex;
+	justify-content: center;
+
+	&>* {
+		&:not(:last-child) {
+			margin-right: 2.60vw;
+		}
+	}
+
+	svg {
+		height: 1.88vw;
+	}
+}

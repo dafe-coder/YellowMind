@@ -1,0 +1,22 @@
+@import '../../variables';
+
+.hobbies {
+	&-img {
+		background: #C4C4C4;
+		height: vw(323px);
+		width: vw(323px);
+		margin-bottom: vw(50px);
+		img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+		}
+	}
+	&-title {
+		font-weight: 300;
+		font-size: vw(36px);
+		line-height: vw(42px);
+		margin: 0;
+		text-align: center;
+	}
+}

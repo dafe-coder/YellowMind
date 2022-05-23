@@ -1,0 +1,9 @@
+@import '../../variables';
+
+ul.hobbies-list {
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(vw(320px), 1fr));
+	gap: vw(50px);
+	margin: vw(70px) 0;
+}
