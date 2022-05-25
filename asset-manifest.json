@@ -1,30 +1,25 @@
 {
   "files": {
     "main.css": "/YellowMind/static/css/main.273b798e.chunk.css",
-    "main.js": "/YellowMind/static/js/main.6411c6e6.chunk.js",
-    "main.js.map": "/YellowMind/static/js/main.6411c6e6.chunk.js.map",
+    "main.js": "/YellowMind/static/js/main.5983284e.chunk.js",
+    "main.js.map": "/YellowMind/static/js/main.5983284e.chunk.js.map",
     "runtime-main.js": "/YellowMind/static/js/runtime-main.94f9c265.js",
     "runtime-main.js.map": "/YellowMind/static/js/runtime-main.94f9c265.js.map",
-    "static/js/2.609de307.chunk.js": "/YellowMind/static/js/2.609de307.chunk.js",
-    "static/js/2.609de307.chunk.js.map": "/YellowMind/static/js/2.609de307.chunk.js.map",
+    "static/js/2.95f9fab1.chunk.js": "/YellowMind/static/js/2.95f9fab1.chunk.js",
+    "static/js/2.95f9fab1.chunk.js.map": "/YellowMind/static/js/2.95f9fab1.chunk.js.map",
     "index.html": "/YellowMind/index.html",
     "static/css/main.273b798e.chunk.css.map": "/YellowMind/static/css/main.273b798e.chunk.css.map",
-    "static/js/2.609de307.chunk.js.LICENSE.txt": "/YellowMind/static/js/2.609de307.chunk.js.LICENSE.txt",
-    "static/media/Rectangle 25-1.d33a0848.png": "/YellowMind/static/media/Rectangle 25-1.d33a0848.png",
-    "static/media/Rectangle 25-2.3ff0623d.png": "/YellowMind/static/media/Rectangle 25-2.3ff0623d.png",
-    "static/media/Rectangle 25-3.79e5732e.png": "/YellowMind/static/media/Rectangle 25-3.79e5732e.png",
-    "static/media/Rectangle 25.bbd35c3d.png": "/YellowMind/static/media/Rectangle 25.bbd35c3d.png",
+    "static/js/2.95f9fab1.chunk.js.LICENSE.txt": "/YellowMind/static/js/2.95f9fab1.chunk.js.LICENSE.txt",
     "static/media/app.css": "/YellowMind/static/media/Union.44b69115.svg",
     "static/media/alex.3a6b1c9a.MP4": "/YellowMind/static/media/alex.3a6b1c9a.MP4",
     "static/media/dimas.c47b7805.MP4": "/YellowMind/static/media/dimas.c47b7805.MP4",
     "static/media/testimonialCard.scss": "/YellowMind/static/media/quote2.e9c6de7c.svg",
-    "static/media/sticker.7e0c4274.webp": "/YellowMind/static/media/sticker.7e0c4274.webp",
     "static/media/vladyk.b74a54fb.MP4": "/YellowMind/static/media/vladyk.b74a54fb.MP4"
   },
   "entrypoints": [
     "static/js/runtime-main.94f9c265.js",
-    "static/js/2.609de307.chunk.js",
+    "static/js/2.95f9fab1.chunk.js",
     "static/css/main.273b798e.chunk.css",
-    "static/js/main.6411c6e6.chunk.js"
+    "static/js/main.5983284e.chunk.js"
   ]
 }
