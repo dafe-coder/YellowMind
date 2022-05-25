@@ -1,7 +1,6 @@
 import alex from './alex.MP4';
 import vladyk from './vladyk.MP4';
 import dimas from './dimas.MP4';
-import sticker from './sticker.webp';
 import React, { StrictMode } from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';

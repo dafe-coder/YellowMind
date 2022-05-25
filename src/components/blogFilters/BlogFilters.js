@@ -2,34 +2,24 @@ import './blogFilters.scss';
 
 const BlogFilters = () => {
 	return (
-		<ul className="filters">
-			<li className="active">
-				<a href="#">
-					All articles
-				</a>
+		<ul className='filters'>
+			<li className='active'>
+				<a href='!#'>All articles</a>
 			</li>
 			<li>
-				<a href="#">
-					Ui/Ux design
-				</a>
+				<a href='!#'>Ui/Ux design</a>
 			</li>
 			<li>
-				<a href="#">
-					Tips & Tricks
-				</a>
+				<a href='!#'>Tips & Tricks</a>
 			</li>
 			<li>
-				<a href="#">
-					Marketing
-				</a>
+				<a href='!#'>Marketing</a>
 			</li>
 			<li>
-				<a href="#">
-					SaaS Products
-				</a>
+				<a href='!#'>SaaS Products</a>
 			</li>
 		</ul>
-	)
-} 
+	);
+};
 
 export default BlogFilters;

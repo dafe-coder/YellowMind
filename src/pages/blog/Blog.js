@@ -3,10 +3,6 @@ import WhiteCard from '../../components/whiteCard/WhiteCard';
 import BlogFilters from '../../components/blogFilters/BlogFilters';
 import MainText from '../../components/mainText/MainText';
 import MainTitle from '../../components/mainTitle/MainTitle';
-import img1 from './Rectangle 25-1.png';
-import img2 from './Rectangle 25-2.png';
-import img3 from './Rectangle 25-3.png';
-import img4 from './Rectangle 25.png';
 
 const Blog = () => {
 	return (
