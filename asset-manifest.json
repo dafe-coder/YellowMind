@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YellowMind/static/css/main.273b798e.chunk.css",
-    "main.js": "/YellowMind/static/js/main.5983284e.chunk.js",
-    "main.js.map": "/YellowMind/static/js/main.5983284e.chunk.js.map",
+    "main.css": "/YellowMind/static/css/main.126e6751.chunk.css",
+    "main.js": "/YellowMind/static/js/main.bef2f7da.chunk.js",
+    "main.js.map": "/YellowMind/static/js/main.bef2f7da.chunk.js.map",
     "runtime-main.js": "/YellowMind/static/js/runtime-main.94f9c265.js",
     "runtime-main.js.map": "/YellowMind/static/js/runtime-main.94f9c265.js.map",
-    "static/js/2.95f9fab1.chunk.js": "/YellowMind/static/js/2.95f9fab1.chunk.js",
-    "static/js/2.95f9fab1.chunk.js.map": "/YellowMind/static/js/2.95f9fab1.chunk.js.map",
+    "static/js/2.20e9e12a.chunk.js": "/YellowMind/static/js/2.20e9e12a.chunk.js",
+    "static/js/2.20e9e12a.chunk.js.map": "/YellowMind/static/js/2.20e9e12a.chunk.js.map",
     "index.html": "/YellowMind/index.html",
-    "static/css/main.273b798e.chunk.css.map": "/YellowMind/static/css/main.273b798e.chunk.css.map",
-    "static/js/2.95f9fab1.chunk.js.LICENSE.txt": "/YellowMind/static/js/2.95f9fab1.chunk.js.LICENSE.txt",
+    "static/css/main.126e6751.chunk.css.map": "/YellowMind/static/css/main.126e6751.chunk.css.map",
+    "static/js/2.20e9e12a.chunk.js.LICENSE.txt": "/YellowMind/static/js/2.20e9e12a.chunk.js.LICENSE.txt",
     "static/media/app.css": "/YellowMind/static/media/Union.44b69115.svg",
     "static/media/alex.3a6b1c9a.MP4": "/YellowMind/static/media/alex.3a6b1c9a.MP4",
     "static/media/dimas.c47b7805.MP4": "/YellowMind/static/media/dimas.c47b7805.MP4",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.94f9c265.js",
-    "static/js/2.95f9fab1.chunk.js",
-    "static/css/main.273b798e.chunk.css",
-    "static/js/main.5983284e.chunk.js"
+    "static/js/2.20e9e12a.chunk.js",
+    "static/css/main.126e6751.chunk.css",
+    "static/js/main.bef2f7da.chunk.js"
   ]
 }
