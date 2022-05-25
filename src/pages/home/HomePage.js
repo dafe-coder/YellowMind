@@ -7,7 +7,7 @@ import MainLink from '../../components/mainLink/MainLink';
 
 const HomePage = () => {
 	return (
-		<div className='mainApp'>
+		<div className='mainApp home-page'>
 			<MainTitle type='h1' title='Your great SaaS product could be better!' />
 			<MainText textAlign>
 				We can analyze your SaaS product and share with you a quick report for

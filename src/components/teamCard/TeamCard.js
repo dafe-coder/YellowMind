@@ -9,10 +9,10 @@ const TeamCard = ({ name, position, src }) => {
 						<source src={src} type='video/mp4' />
 					</video>
 				</div>
-				<a href='!#' className='team-card__info'>
+				<div className='team-card__info'>
 					<h3>{name}</h3>
 					<p>{position}</p>
-				</a>
+				</div>
 			</NavLink>
 		</li>
 	);

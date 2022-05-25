@@ -7,6 +7,7 @@ const OurTeam = ({ team }) => {
 				? team.map((item) => {
 						return (
 							<TeamCard
+								key={item.name}
 								name={item.name}
 								position={item.position}
 								src={item.imgPath}
